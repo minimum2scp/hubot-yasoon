@@ -9,5 +9,5 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-youtube",
-  "hubot-dockerhub-automated-build"
+  "hubot-dockerhub"
 ]
